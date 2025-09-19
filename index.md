@@ -18,4 +18,3 @@ Enthusiastic and motivated law student seeking a legal intern position to gain p
 - [Moots](moots.md)
 - [Publications](publications.md)
 - [Conferences](conferences.md)
-- [Skills](skills.md)
